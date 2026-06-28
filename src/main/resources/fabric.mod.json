@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "for1_21_11mustliketesti_test_",
+  "version": "1.0.0",
+  "name": "For1.21.11MustLikeTestI/test.",
+  "description": "A Fabric mod built with Llquando",
+  "authors": ["You"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.for1_21_11mustliketesti_test_.For1.21.11MustLikeTestI/test."]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21",
+    "java": ">=21"
+  }
+}
